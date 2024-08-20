@@ -91,7 +91,7 @@ Please adjust the "opts" parameters in the respective files according to your da
 
 #### Testing on Videos
 
-To perform test-time adaptation on your videos, download the [pretrained network checkpoints]() and place them in the "pretrained_models" folder as shown below (or modify the paths in the `test_time_xxx.py` scripts accordingly):
+To perform test-time adaptation on your videos, download the [pretrained network checkpoints](https://drive.google.com/file/d/14oh0c6anUJHEkbG7TQJ2o4Gf9oCG4742/view?usp=sharing) and place them in the "pretrained_models" folder as shown below (or modify the paths in the `test_time_xxx.py` scripts accordingly):
 
 ```
 root
