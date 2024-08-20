@@ -118,11 +118,7 @@ Run the corresponding files as described in the table below to perform test-time
 
 ## Results
 
-<div align="left">
-  <a href="https://www.youtube.com/watch?v=pUeT0mBxNLU">
-    <img src="https://www.youtube.com/watch?v=pUeT0mBxNLU/0.jpg" style="width:100%;">
-  </a>
-</div>
+[![Watch the video](https://img.youtube.com/vi/pUeT0mBxNLU/hqdefault.jpg)](https://www.youtube.com/watch?v=pUeT0mBxNLU)
 
 ### Citation
 
