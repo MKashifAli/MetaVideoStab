@@ -144,7 +144,7 @@ If you find our work useful in your research, please cite our publications:
 
 ## Acknowledgements
 
-The code in this repository incorporates parts of some methods from [Learning Blind Video Temporal Consistency](https://github.com/phoenix104104/fast_blind_video_consistency) and [GlobalFlowNet](https://github.com/GlobalFlowNet/GlobalFlowNet). We thanks to the authors for sharing their code.
+The code in this repository incorporates parts of some methods from [Learning Blind Video Temporal Consistency](https://github.com/phoenix104104/fast_blind_video_consistency) and [GlobalFlowNet](https://github.com/GlobalFlowNet/GlobalFlowNet). We thank the authors for sharing their code.
 
 
 Additionally, to improve readability and cleaning the code, I have significantly rewritten and cleaned the original repository. If you encounter any bugs or issues, please report them, and I will address them as soon as I have enough time.
